@@ -2,6 +2,10 @@
 
 This is a basic Godot project with a 3rd person player setup that can be controlled by either the mouse or a controller.
 
+## Godot Version
+
+Using Godot version 3.2.2.stable.official
+
 ## Controls
 ### Gamepad
 Left Stick - Movement 
@@ -19,6 +23,7 @@ Space button - Jump
 
 ## TODO
 - Double jumping
+- Hover jumping
 - Wall jumping
 - Crouching
 - Long jumping
